@@ -54,3 +54,7 @@ Another vertical bar graph highlighting the Top 5 Customers based on sales.
 Filters and Slicers:
 Added a date filter to allow users to select specific time ranges.
 Added slicers for the following columns to filter data: Coffee Type, Size, Loyalty Card
+
+
+![image](https://github.com/user-attachments/assets/ba51950c-c795-4cd8-977f-940b8578b4e3)
+
